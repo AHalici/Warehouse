@@ -1,0 +1,2 @@
+D:\source\repos\Warehouse\Debug\Warehouse.exe
+D:\source\repos\Warehouse\Debug\Warehouse.pdb

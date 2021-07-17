@@ -1,0 +1,6 @@
+﻿  Stack.cpp
+  main.cpp
+D:\source\repos\Warehouse\main.cpp(76,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\source\repos\Warehouse\main.cpp(98,6): warning C4101: 'totalStockForOrder': unreferenced local variable
+  Generating Code...
+  Warehouse.vcxproj -> D:\source\repos\Warehouse\Debug\Warehouse.exe
